@@ -165,7 +165,7 @@ This includes copying code for other sources, using code from other sources with
 
 For your advanced assignments and final project, there may be instances where you wish to adapt an example or use a snippet of code found online. You must cite the work and author and comment each line of code to explain what it is going on programmatically. Each comment should describe what the specific line of code is doing. The expectation, when working from examples, is to apply code examples towards unique and novel ideas. If you are using borrowed code in your assignments, its use should not determine the look and feel of your work. It should, instead, be modified to help you achieve your own personal creative vision. If you use code from online sources, I expect to see a link to its source in the comments. Failure to attribute other peoples’ code will result in failure of the assignment. Likewise, you should never borrow more than 30% of your code from other sources, even if properly attributed.
 
-*** Statement on LLMs / ChatGPT / etc
+### Statement on LLMs / ChatGPT / etc
 
 The primary objective of this class is to equip students with coding skills, so that they can advance in this program and in their future careers as independently-capable programmers. Learning in this class is structured around assignments that challenge students to synthesize course material through creative problem solving and creative exploration. Put simply, you will not learn how to code if you rely on LLMs to do your work for you. And, since the point of this course is to teach you how to code, you will not succeed in this course if you rely on LLMs to complete your work.
 
