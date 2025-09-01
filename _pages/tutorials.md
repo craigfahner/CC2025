@@ -1,5 +1,0 @@
----
----
-# Tutorials
-
-{% include tutorials.html %}
