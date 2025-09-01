@@ -99,7 +99,7 @@ Grades will be distributed on Brightspace.
 
 ## Course Schedule
 
-# Topics and Assignments
+### Topics and Assignments
 
 | Week 1<br>September 3 | **_Intro:_**<br>• Overview of class syllabus<br>• Introduction to code-based artworks<br>• Resources: Github, VSCode, Github Pages, Markdown<br>• Human computer exercise |
 | Week 2<br>September 10 | **_Creative Coding Tools:_**<br>• AI discussion<br>• Coding resources continued<br>• Hello world |
@@ -107,7 +107,7 @@ Grades will be distributed on Brightspace.
 | Week 4<br>September 24 | **_Making Things Generative and Interactive:_**<br>• Variables<br>• Booleans<br>• Mapping<br>• Conditionals<br>• Loops<br>• Random numbers<br>• Iteration<br>• Assignment 2: Generative pattern assignment |
 | Week 5<br>October 1 | **_Transformations and Time:_**<br>• Manipulating the coordinate matrix<br>• Working with JavaScript math and time functions<br>• Polar Coordinates<br>• Assignment 3: Clock assignment |
 | Week 6<br>October 8 | **_Arrays, Functions, Objects:_**<br>• Built-in p5 functions<br>• Creating your own functions<br>• Introducing object-oriented programming<br>• In-depth on objects and constructors<br>• Assignment 4: Object generator assignment |
-| Week 7<br>October 15 | **_Objects Continued:_**<br>• Object oriented programming continued<br>• Assignment 4 continued<br>• NOTE: THIS CLASS WILL BE HELD VIA ZOOM! |
+| Week 7<br>October 15 | **_Objects Continued:_**<br>• Object oriented programming continued<br>• Assignment 4 continued<br>• *NOTE: THIS CLASS WILL BE HELD VIA ZOOM!* |
 | Week 8<br>October 22 | **_The DOM, Libraries:_**<br>• The DOM<br>• Introduction to p5.js libraries<br>• Assignment 5: Projection mapping mini-sketches |
 | Week 9<br>October 29 | **_Projection Mapping Workshop:_**<br>• Projection mapping Workshop |
 | Week 10<br>November 4 | **_Arduino Workshop:_**<br>• Working with Arduino<br>• Final project discussion |
@@ -118,5 +118,73 @@ Grades will be distributed on Brightspace.
 | Week 14<br>December 10 | **_Final project studio day_** |
 | Week 15<br>December 15-17 (tbd) | **_Final project presentations_** |
 
+## Course Materials
 
+### Expectations for work outside the classroom
+
+Students should expect to spend roughly 5 hours each week on supplemental work in this course. This may include reading assignments, writing, exam preparation, research, homework assignments, building, writing code, study time, unsupervised lab work, unsupervised group work, etc.
+
+### Optional textbooks
+
+- [*Getting Started with P5. Js : Making Interactive Graphics in JavaScript and Processing* by Lauren McCarthy, Casey Reas, and Ben Fry](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
+- [*The Nature of Code* by Daniel Shiffman](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/the-nature-of/9781098182212/)
+- [*Getting Started With Arduino* by Massimo Banzi and Michael Shiloh](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/getting-started-with/9781680456929/)
+
+### Resources
+
+- *Brightspace page:* https://brightspace.nyu.edu/d2l/home/502947
+- Databases, journal articles, and more: [Dibner Library](https://library.nyu.edu)
+- Assistance with strengthening your writing: [NYU Writing Center](https://nyu.mywconline.com/)
+- Obtain 24/7 technology assistance: [IT Service Desk (NYU IT)](https://nyu.edu/it/servicedesk)
+
+## Course Policies
+
+### Attendance and Tardiness
+
+Your attendance is important. Notify me of all absences prior to class. Each unexcused absence after your first will impact your final grade by a third of a letter (ex. one unexcused absence will drop a final grade of A- to B+, two unexcused absences would drop that A- to a B). If you have 5 or more unexcused absences, you fail the course automatically.
+
+If you’re more than 10 minutes late for class, you will be considered tardy. Two instances of tardiness = one unexcused absence.
+
+Things happen and we all slip up sometimes. If you miss a class – let me know ASAP. I am generally understanding, but I always want to know what is going on.
+
+### Late Assignments
+
+Weekly exercises will not be accepted past their due date unless a valid reason has been discussed in advance with your instructor.
+
+Every day the final project or final project proposal is overdue, it will lose a letter grade. If the final project is turned in more than 3 days late, it receives an F. If you turn nothing in at all, you will receive a 0 for the assignment. Nobody wants that, so be sure to turn your work in on time. Anything is better than nothing.
+
+### Academic Honestly and Plagiarism
+
+Violations of academic integrity are considered to be acts of academic dishonesty and include (but are not limited to) cheating, plagiarizing, fabrication, denying other access to information or material, and facilitating academic dishonesty, and are subject to the policies and procedures noted in the Student Handbook and within the Course Catalog, including the Student Code of Conduct and the Student Judicial System. Please note that lack of knowledge of citations procedures, for example, is an unacceptable explanation for plagiarism, as is having studied together to produce remarkable similar papers or creative works submitted separately by two students, or recycling work from a previous class.
+
+Please review [NYU Tandon's academic dishonesty policy in its entirety](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html). Procedures may include, but are not limited to: failing the assignment, failing the course, going in front of an academic judicial council and possible suspension from school. Violations will not be tolerated.
+
+All work for this class must be your own and specific to this semester. Any work recycled from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable.
+
+This includes copying code for other sources, using code from other sources with only slight modifications and using code from other sources without a reference. It is very easy to find code examples on the internet, especially for beginner-level p5.js concepts. It is very important that you write your own code for the fundamentals portion of the semester (weeks 1-10) and do not copy and paste code from other sources. This is a matter of fully understanding the fundamentals of coding – if you rely too heavily on copying and pasting code from examples, you will not be able to write code independently and fluently. Every assignment you submit until week 10 should be hand typed by you.
+
+For your advanced assignments and final project, there may be instances where you wish to adapt an example or use a snippet of code found online. You must cite the work and author and comment each line of code to explain what it is going on programmatically. Each comment should describe what the specific line of code is doing. The expectation, when working from examples, is to apply code examples towards unique and novel ideas. If you are using borrowed code in your assignments, its use should not determine the look and feel of your work. It should, instead, be modified to help you achieve your own personal creative vision. If you use code from online sources, I expect to see a link to its source in the comments. Failure to attribute other peoples’ code will result in failure of the assignment. Likewise, you should never borrow more than 30% of your code from other sources, even if properly attributed.
+
+*** Statement on LLMs / ChatGPT / etc
+
+The primary objective of this class is to equip students with coding skills, so that they can advance in this program and in their future careers as independently-capable programmers. Learning in this class is structured around assignments that challenge students to synthesize course material through creative problem solving and creative exploration. Put simply, you will not learn how to code if you rely on LLMs to do your work for you. And, since the point of this course is to teach you how to code, you will not succeed in this course if you rely on LLMs to complete your work.
+
+Students should not use ChatGPT or other AI assistants to:
+- Generate project content based on assignment prompts
+- Generate code based on assignment prompts
+- Comment or modify existing code to match assignment specifications
+- Translate or “clean up” your code
+
+I read and review all assignment code in detail. There are many telltale signs when work is generated by ChatGPT or LLMs, such as the inclusion of outdated or rarely-used syntax, use of techniques that exceed the scope of this course, and sprawling, inaccurate code. When tasked to respond to creative prompts, LLMs produce generic results that are not reflective of students’ personal artistic voices. Effectively, code generated by ChatGPT is equivalent to student work that is not engaged in learning, nor reflective of creative intention. If your work reads as though it was written by AI, it will receive no more than a C- grade. If you require assistance with coding, please reach out to me. I am happy to meet with students to work through problems, or to point you towards resources that can help you to learn better coding habits.
+
+### Academic Accommodations
+
+If you are a student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+
+If you are experiencing an illness or any other situation that might affect your academic performance in a class, please email the Office of Advocacy, Compliance and Student Affairs: eng.studentadvocate@nyu.edu.
+
+
+### Statement on Inclusion
+
+The NYU Tandon School values an inclusive and equitable environment for all our students. I hope to foster a sense of community in this class and consider it a place where individuals of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious and political affiliations, and abilities will be treated with respect.  It is my intent that all students’ learning needs be addressed, and that the diversity that students bring to this class be viewed as a resource, strength and benefit.  If this standard is not being upheld, please feel free to speak with me.
 
