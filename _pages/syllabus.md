@@ -4,7 +4,9 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-# NYU | Tandon School of Engineering | Integrated Design & Media
+## NYU Tandon School of Engineering
+
+# Integrated Design & Media
 
 # DM-UY 1133 D | Creative Coding | Fall 2025, Section D
 
@@ -72,22 +74,23 @@ Final Project presentation (due December 15 – 20%)	20%
 | GitHub Pages Portfolio                                       | 10%              |
 | Unit Assignments                                             | 50%              |
 | Final Project Proposal                                       | 5%               |
-| Final Project                                                | 20%               |
+| Final Project                                                | 20%              |
 
 ## Letter Grades
 
 Letter grades for the course are assigned as follows, per NYU Tandon policy:
-|Letter Grade|Points|Percent|
-|------------|------|-------|
-|A	|4.00	|95% and higher|
-|A-	|3.67	|90 – 95%|
-|B+	|3.33	|87% - 90.0%|
-|B	|3.00	|83% - 87%|
-|B-	|2.67	|80% - 83%|
-|C+	|2.33	|77% - 80%|
-|C	|2.00	|73% - 77%|
-|C-	|1.67	|70% - 73%|
-|D+	|1.33	|67% - 70%|
-|D	|1.00	|63% - 67%|
-|D-	|.67	|60% - 63%|
-|F	|.00	|60% and lower|
+
+| Letter Grade | Points | Percent |
+| ------------ | ------ | ------- |
+| A	| 4.00 | 95% and higher |
+| A- | 3.67 | 90 – 95% |
+| B+ | 3.33 | 87% - 90.0% |
+| B	| 3.00 | 83% - 87% |
+| B- | 2.67 | 80% - 83% |
+| C+ | 2.33 | 77% - 80% |
+| C	| 2.00 | 73% - 77% |
+| C- | 1.67 | 70% - 73% |
+| D+ | 1.33 | 67% - 70% |
+| D	| 1.00 | 63% - 67% |
+| D- | .67 | 60% - 63% |
+| F	|.00 | 60% and lower |
