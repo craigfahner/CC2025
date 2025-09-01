@@ -81,7 +81,7 @@ Final Project presentation (due December 15 – 20%)	20%
 Letter grades for the course are assigned as follows, per NYU Tandon policy:
 
 | Letter Grade | Points | Percent |
-| ------------ | ------ | ------- |
+| ------ | ------ | ------- |
 | A	| 4.00 | 95% and higher |
 | A- | 3.67 | 90 – 95% |
 | B+ | 3.33 | 87% - 90.0% |
@@ -102,6 +102,9 @@ Grades will be distributed on Brightspace.
 # Topics and Assignments
 
 | Week 1 | September 3 | *Intro* |
-| •	Overview of class syllabus<br>•	Introduction to code-based artworks<br>•	Resources: Github, VSCode, Github Pages, Markdown<br>•	Human computer exercise |
+- Overview of class syllabus
+- Introduction to code-based artworks
+- Resources: Github, VSCode, Github Pages, Markdown
+- Human computer exercise |
 
 
