@@ -101,10 +101,6 @@ Grades will be distributed on Brightspace.
 
 # Topics and Assignments
 
-| Week 1 | September 3 | *Intro* |
-- Overview of class syllabus
-- Introduction to code-based artworks
-- Resources: Github, VSCode, Github Pages, Markdown
-- Human computer exercise
+| Week 1<br>September 3 | *Intro:*<br>• Overview of class syllabus<br>• Introduction to code-based artworks<br>• Resources: Github, VSCode, Github Pages, Markdown<br>• Human computer exercise |
 
 
