@@ -1,0 +1,27 @@
+title: Creative Coding (DM-GY 6063) Fall 2024 Section B
+
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+# Local dev settings
+port: 8114
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "README.md"
+    values:
+      layout: "page"
+      permalink: /
+      title: DM-GY 6063 2024F B Syllabus
