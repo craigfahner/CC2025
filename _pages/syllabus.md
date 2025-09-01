@@ -1,3 +1,9 @@
+---
+layout: page
+title: Syllabus
+permalink: /syllabus/
+---
+
 # NYU | Tandon School of Engineering
 
 ## Integrated Design & Media

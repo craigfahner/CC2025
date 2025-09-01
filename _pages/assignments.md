@@ -1,7 +1,11 @@
+---
+layout: page
+title: Assignments
+permalink: /assignments/
+---
+
 # NYU | Tandon School of Engineering
 
-## Integrated Design & Media
-
-# DM-GY 6063 | Creative Coding Fall 2024, Section B
+## Craig's Assignment Zone
 
 foo foo bagoo
