@@ -16,7 +16,6 @@ jobs:
       - name: Deploy GH pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.PUSH_TOKEN }}
-          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           enable_jekyll: true
