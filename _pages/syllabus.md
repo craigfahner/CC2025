@@ -61,8 +61,8 @@ The final project invites students to expand on one or more aspects of the cours
 - **CHOOSE YOUR OWN ADVENTURE**: create an interactive narrative that invites the user to make choices that influence their journey. This narrative should make use of dynamic user input and should include sound and visual forms.
 Students are also encouraged to bring their own formats and ideas to the table – I am open to all kinds of project ideas, so long as they demonstrate several technical approaches from the course and are feasible within the given time frame. Students will be asked to turn in a project proposal mid-semester that outlines their ideas for the final project. 
 
-- Final project proposal (due November 12 - 5%)
-- Final Project presentation (due December 15 – 20%)	30%
+Final project proposal (due November 12 - 5%)
+Final Project presentation (due December 15 – 20%)	20%
 
 ### Grading of Assignments
 
@@ -73,3 +73,21 @@ Students are also encouraged to bring their own formats and ideas to the table �
 | Unit Assignments                                             | 50%              |
 | Final Project Proposal                                       | 5%               |
 | Final Project                                                | 20%               |
+
+## Letter Grades
+
+Letter grades for the course are assigned as follows, per NYU Tandon policy:
+|Letter Grade|Points|Percent|
+|------------|------|-------|
+|A	|4.00	|95% and higher|
+|A-	|3.67	|90 – 95%|
+|B+	|3.33	|87% - 90.0%|
+|B	|3.00	|83% - 87%|
+|B-	|2.67	|80% - 83%|
+|C+	|2.33	|77% - 80%|
+|C	|2.00	|73% - 77%|
+|C-	|1.67	|70% - 73%|
+|D+	|1.33	|67% - 70%|
+|D	|1.00	|63% - 67%|
+|D-	|.67	|60% - 63%|
+|F	|.00	|60% and lower|
