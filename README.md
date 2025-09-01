@@ -1,6 +1,14 @@
-# NYU | Tandon School of Engineering<br>Integrated Design & Media
+---
+layout: home
+title: Creative Coding 2025
+permalink: /
+---
 
-# DM-GY 6063 | Creative Coding<br>Fall 2024, Section B
+# NYU | Tandon School of Engineering
+
+## Integrated Design & Media
+
+# DM-GY 6063 | Creative Coding Fall 2024, Section B
 
 - Instructor: [Craig Fahner](https://www.craigfahner.com)
 - email: [thiago.hersan@nyu.edu](mailto:thiago.hersan@nyu.edu)
