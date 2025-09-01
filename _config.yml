@@ -1,0 +1,20 @@
+title: Creative Coding 2025
+description: A GitHub Pages site generated from Markdown
+baseurl: ""   # leave empty for user/organization site
+url: "https://craigfahner.github.io/CC2025"
+
+markdown: kramdown
+theme: minima   
+
+# Collections: optional, but lets you organize pages
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: "README.md"
+    values:
+      layout: page
+      permalink: /
