@@ -94,3 +94,14 @@ Letter grades for the course are assigned as follows, per NYU Tandon policy:
 | D	| 1.00 | 63% - 67% |
 | D- | .67 | 60% - 63% |
 | F	|.00 | 60% and lower |
+
+Grades will be distributed on Brightspace.
+
+## Course Schedule
+
+# Topics and Assignments
+
+| Week 1 | September 3 | *Intro* |
+| •	Overview of class syllabus<br>•	Introduction to code-based artworks<br>•	Resources: Github, VSCode, Github Pages, Markdown<br>•	Human computer exercise |
+
+
