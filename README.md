@@ -215,7 +215,6 @@ There are no required books for class. Additional reading materials will be dist
 
 These books are excellent companions for the materials we'll be covering:
 
-{% include books.html %}
 
 ## Resources
 
