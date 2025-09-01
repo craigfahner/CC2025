@@ -102,6 +102,21 @@ Grades will be distributed on Brightspace.
 # Topics and Assignments
 
 | Week 1<br>September 3 | **_Intro:_**<br>• Overview of class syllabus<br>• Introduction to code-based artworks<br>• Resources: Github, VSCode, Github Pages, Markdown<br>• Human computer exercise |
-| Week 2<br>September 10 | **Creative Coding Tools:_**<br>• AI discussion<br>• Coding resources continued<br>• Hello world |
+| Week 2<br>September 10 | **_Creative Coding Tools:_**<br>• AI discussion<br>• Coding resources continued<br>• Hello world |
+| Week 3<br>September 17 | **_Drawing Machines:_**<br>• The coordinate system<br>• P5.js drawing functions<br>• Color, line, form<br>• The p5.js canvas<br>• Assignment 1: Machine drawing assignment |
+| Week 4<br>September 24 | **_Making Things Generative and Interactive:_**<br>• Variables<br>• Booleans<br>• Mapping<br>• Conditionals<br>• Loops<br>• Random numbers<br>• Iteration<br>• Assignment 2: Generative pattern assignment |
+| Week 5<br>October 1 | **_Transformations and Time:_**<br>• Manipulating the coordinate matrix<br>• Working with JavaScript math and time functions<br>• Polar Coordinates<br>• Assignment 3: Clock assignment |
+| Week 6<br>October 8 | **_Arrays, Functions, Objects:_**<br>• Built-in p5 functions<br>• Creating your own functions<br>• Introducing object-oriented programming<br>• In-depth on objects and constructors<br>• Assignment 4: Object generator assignment |
+| Week 7<br>October 15 | **_Objects Continued:_**<br>• Object oriented programming continued<br>• Assignment 4 continued<br>• NOTE: THIS CLASS WILL BE HELD VIA ZOOM! |
+| Week 8<br>October 22 | **_The DOM, Libraries:_**<br>• The DOM<br>• Introduction to p5.js libraries<br>• Assignment 5: Projection mapping mini-sketches |
+| Week 9<br>October 29 | **_Projection Mapping Workshop:_**<br>• Projection mapping Workshop |
+| Week 10<br>November 4 | **_Arduino Workshop:_**<br>• Working with Arduino<br>• Final project discussion |
+| Week 11<br>November 12 | **_Machine Learning and AI:_**<br>• Final Project Proposal due!<br>• ml5.js library<br>• PoseNet, Handpose and FaceAPI<br>• Gestural instrument workshop |
+| Week 12<br>November 19 | **_Final Project Check-in and Pen Plotter Demo:_**<br>• Pen plotter demo |
+| **November 26** | **_NO CLASS (Legislative Friday)_** |
+| Week 13<br>December 3 | **_Final project studio day_** |
+| Week 14<br>December 10 | **_Final project studio day_** |
+| Week 15<br>December 15-17 (tbd) | **_Final project presentations_** |
+
 
 
