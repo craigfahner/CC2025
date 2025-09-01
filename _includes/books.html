@@ -1,0 +1,9 @@
+<ul>
+  {% for book in site.data.books %}
+  <li>
+    <a href="{{ book.url }}">{{ book.title }}</a>
+    {% if book.code %}(<a href="{{ book.code }}">code</a>){% endif %}
+    by {{ book.authors }}
+  </li>
+  {% endfor %}
+</ul>
