@@ -5,6 +5,8 @@ url: "https://craigfahner.github.io/CC2025"
 
 markdown: kramdown
 theme: minima   
+url:"https://craigfahner.github.io"
+baseurl: "/CC2025"
 
 # Collections: optional, but lets you organize pages
 collections:
