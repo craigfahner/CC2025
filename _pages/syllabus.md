@@ -105,6 +105,6 @@ Grades will be distributed on Brightspace.
 - Overview of class syllabus
 - Introduction to code-based artworks
 - Resources: Github, VSCode, Github Pages, Markdown
-- Human computer exercise |
+- Human computer exercise
 
 
