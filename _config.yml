@@ -15,12 +15,12 @@ collections:
     permalink: /:path/
 
 header_pages:
-  - _pages/about.md
+  - _pages/assignments.md
   - _pages/syllabus.md
 
 defaults:
   - scope:
       path: "README.md"
     values:
-      layout: page
+      layout: home
       permalink: /
