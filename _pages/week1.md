@@ -15,30 +15,30 @@ permalink: /week1/
 
 ### p5.js example projects
 
-https://p5js.org/examples/
-https://openprocessing.org/discover/#/trending
+- [p5js.org examples](https://p5js.org/examples/)
+- [OpenProcessing discover page](https://openprocessing.org/discover/#/trending)
 
 Generative and interactive visualizations:
-https://beta.p5js.org/sketches/2225777/
-https://openprocessing.org/sketch/1203202
-https://editor.p5js.org/jcponce/full/G_83s9d0k
-https://openprocessing.org/sketch/1983610 (use keyboard to regenerate)
-https://dribnet.github.io/substrate/
-https://exp.paperdove.com/chillin/
-https://certainlynot.com/Paraform-Generative-Animation
-https://sketchmachine.net/
-https://openprocessing.org/sketch/1982553
-https://pixlpa.com/mobrush/
-https://openprocessing.org/sketch/2708965
+- [Padrão Geométrico by Guilherme Vieira](https://beta.p5js.org/sketches/2225777/)
+- [Poisson Trees by Roni Kaufman](https://openprocessing.org/sketch/1203202)
+- [Mandelbrot-bulb-shader](https://editor.p5js.org/jcponce/full/G_83s9d0k)
+- [20230811 by E.C.H.](https://openprocessing.org/sketch/1983610) (use keyboard to regenerate)
+- [Substrate by Jared S Tarbell](https://dribnet.github.io/substrate/)
+- [C H I L L I N](https://exp.paperdove.com/chillin/)
+- [Sketch Machine](https://sketchmachine.net/)
+- [0668 by kusakari](https://openprocessing.org/sketch/1982553)
+- [Andrew Benson - mobrush](https://pixlpa.com/mobrush/)
+- [Voronoi Flowers 2 by Roni Kaufman](https://openprocessing.org/sketch/2708965)
 
 
 Games / Interactive narratives:
-https://jasongong0307.github.io/the-healing-forest/
-https://arjuncreates.github.io/InBetweenLifeAndDeath/
+- [The Healing Forest by Jason Gong](https://jasongong0307.github.io/the-healing-forest/)
 
 Gestural interactions:
-[https://pixlpa.com/filler/](https://pixlpa.com/filler/)
-[https://hannah-y-zhao.github.io/Intro-to-ML-Final/](https://hannah-y-zhao.github.io/Intro-to-ML-Final/)
+[Andrew Benson - Filler](https://pixlpa.com/filler/)
+[Quick, Mad Libs! by Hannah Zhao](https://hannah-y-zhao.github.io/Intro-to-ML-Final/)
+
+---
 
 ### Getting set up with VSCode, GitHub and GitHub Pages
 
