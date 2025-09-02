@@ -71,7 +71,7 @@ Everything you do in this course will be contained in one folder. A **GitHub Rep
 2. Hit the "Use this template" button and select "create a new repository": ![Use this template]({{ "/assets/template.png" | relative_url }})
 3. Give your repository a name like so: "CC2025-[your NetID]". Make sure the repository is set to Public, as this will allow you to publish a website.
 ![Repo settings]({{ "/assets/reposettings.png" | relative_url }})
-4. Click on settings at the top, and enable GitHub pages. In the "about" settings on the code page, select the "Use your GitHub Pages website" option. ([video](https://drive.google.com/file/d/18CLh7veZE_eVL9kPlFRmBoYQyQpQ3fzg/view?usp=sharing))
+4. After clicking on "Create Repository", you will arrive at the page for your new repo. Click on settings at the top, and enable GitHub pages. In the "about" settings on the code page, select the "Use your GitHub Pages website" option. ([video](https://drive.google.com/file/d/18CLh7veZE_eVL9kPlFRmBoYQyQpQ3fzg/view?usp=sharing))
 5. After a few minutes, your GitHub pages site will be up (and will display the template content, for now) – you can click on the URL in the About section of your code page to check. This will be the URL for your course portfolio.
 
 **Cloning your repo to your computer**
@@ -80,7 +80,10 @@ Everything you do in this course will be contained in one folder. A **GitHub Rep
 2. You will be prompted to select a location on your computer to store the repository. This is where the repo will live on your computer. Once you set this location, _don't move the folder manually_, as it will sever GitHub Desktop's ability to track changes and synchronize. Select a location that you know will remain persistent on your computer.
 3. When you click "Clone", a folder will be created on your computer with all the files in the repository. Click "Show in Finder" to navigate to the files themselves.
 
-**Opening your folder on VSCode**
+**Opening your folder in VSCode**
 
-
-
+1. In VSCode, select "Open Folder" from the File menu:
+![Open folder]({{ "/assets/openfolder.png" | relative_url }})
+2. All the files in your folder can now be accessed in the "explorer" panel at the left.
+3. Navigate to the "week1" folder and right click on the "index.html" file, selecting "Show Preview". This will open a panel on the right side of the editor that previews the code you are working on.
+4. Any changes you make in the VSCode editor must be saved before they can be synchronized with your GitHub repo. Make a small change to the README.md file in the root folder. 
