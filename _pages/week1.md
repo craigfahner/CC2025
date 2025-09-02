@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assignments
-permalink: /assignments/
+title: Week 1
+permalink: /week1/
 ---
 
 ## Week 1 Activities
