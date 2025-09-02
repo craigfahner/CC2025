@@ -4,6 +4,3 @@ title: Assignments
 permalink: /assignments/
 ---
 
-
-
-assignments
