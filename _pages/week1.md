@@ -68,7 +68,19 @@ The easiest way to install extensions is to click on the extension icon in the c
 Everything you do in this course will be contained in one folder. A **GitHub Repository** or "repo" is a folder that you can synchronize to a server. This serves as a version control mechanism, a storage/backup solution, and a method to share and publish your work. I've shared a template repository that has everything you need in it to get started writing code in p5.js. You can create a new repository from the template using the following steps:
 
 1. Go to this link: https://github.com/DM-GY-6063-A/CC-template/
-2. Hit the template button: ![Use this template]({{ "/assets/template.png" | relative_url }})
-3. 
+2. Hit the "Use this template" button and select "create a new repository": ![Use this template]({{ "/assets/template.png" | relative_url }})
+3. Give your repository a name like so: "CC2025-[your NetID]". Make sure the repository is set to Public, as this will allow you to publish a website.
+![Repo settings]({{ "/assets/reposettings.png" | relative_url }})
+4. Click on settings at the top, and enable GitHub pages. In the "about" settings on the code page, select the "Use your GitHub Pages website" option. ([video](https://drive.google.com/file/d/18CLh7veZE_eVL9kPlFRmBoYQyQpQ3fzg/view?usp=sharing))
+5. After a few minutes, your GitHub pages site will be up (and will display the template content, for now) – you can click on the URL in the About section of your code page to check. This will be the URL for your course portfolio.
+
+**Cloning your repo to your computer**
+
+1. Once you've logged into your GitHub account on GitHub desktop, "clone" your new repository onto your computer by clicking on the Repository tab in the top left corner, and selecting "Clone Repository" from the "Add" dropdown menu. ([video](https://drive.google.com/file/d/1zXSnRtS_jKpAX98viNRZKXOMZomOmFRM/view?usp=sharing))
+2. You will be prompted to select a location on your computer to store the repository. This is where the repo will live on your computer. Once you set this location, _don't move the folder manually_, as it will sever GitHub Desktop's ability to track changes and synchronize. Select a location that you know will remain persistent on your computer.
+3. When you click "Clone", a folder will be created on your computer with all the files in the repository. Click "Show in Finder" to navigate to the files themselves.
+
+**Opening your folder on VSCode**
+
 
 
