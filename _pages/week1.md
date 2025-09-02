@@ -86,4 +86,9 @@ Everything you do in this course will be contained in one folder. A **GitHub Rep
 ![Open folder]({{ "/assets/openfolder.png" | relative_url }})
 2. All the files in your folder can now be accessed in the "explorer" panel at the left.
 3. Navigate to the "week1" folder and right click on the "index.html" file, selecting "Show Preview". This will open a panel on the right side of the editor that previews the code you are working on.
-4. Any changes you make in the VSCode editor must be saved before they can be synchronized with your GitHub repo. Make a small change to the README.md file in the root folder. 
+4. Any changes you make in the VSCode editor must be saved before they can be synchronized with your GitHub repo. Make a small change to the README.md file in the root folder, changing the header from "p5.js multi sketch template" to "[your name]'s Creative Coding Repo"
+
+**Committing and pushing in GitHub Desktop** ([video](https://drive.google.com/file/d/1sU_NBorLMBH6_RghRXJ8bsXb58ZhPdjF/view?usp=sharing))
+1. Once you've made a change to the README.md file, open GitHub desktop. The changes you've made will be shown on the left panel of the interface.
+2. To commit, make a note in the "Summary" field below the listed changes. This typically is a short description of what you've changed in your repo. 
+3. Committing saves the "version" you have just created; after committing, you still need to "push" the new version to the server. You do this with the "Push Origin" button in the top right corner. Once you've done that, your changes will be synchronized with the GitHub remote server, and after a few minutes you can preview them on your GitHub Pages site.
