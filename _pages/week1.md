@@ -98,7 +98,9 @@ Everything you do in this course will be contained in one folder. A **GitHub Rep
 Read at least one of the following articles or chapters:
 
 [Douglas Rushkoff, *Program or Be Programmed (introduction)*](https://addc401fall2016.wordpress.com/wp-content/uploads/2016/08/rushkoff-program-or-be-programmed.pdf) (pages 7-21)
+
 [Jathan Sadowski, *The Mechanic and The Luddite (Chapter 2: Two Models)*](https://www-degruyterbrill-com.proxy.library.nyu.edu/document/doi/10.1525/)9780520398085-003/html
+
 [Patrick Lin, *Why We’re Not Using AI in This Course, Despite Its Obvious Benefits*](https://emergingethics.substack.com/p/why-were-not-using-ai-in-this-course)
 
 Select 3 quotes that you found interesting in the reading. Edit the README.md file of your week1 folder, including your selected quotes as *blockquotes* cited with the author's name and a page number (if applicable). Below each quote, write a few sentences as to why the quote stuck out to you, whether you agree or disagree, and how the quote relates to learning programming skills.
