@@ -92,3 +92,15 @@ Everything you do in this course will be contained in one folder. A **GitHub Rep
 1. Once you've made a change to the README.md file, open GitHub desktop. The changes you've made will be shown on the left panel of the interface.
 2. To commit, make a note in the "Summary" field below the listed changes. This typically is a short description of what you've changed in your repo. 
 3. Committing saves the "version" you have just created; after committing, you still need to "push" the new version to the server. You do this with the "Push Origin" button in the top right corner. Once you've done that, your changes will be synchronized with the GitHub remote server, and after a few minutes you can preview them on your GitHub Pages site.
+
+### For Next Week
+
+Read at least one of the following articles or chapters:
+
+[Douglas Rushkoff, *Program or Be Programmed (introduction)*](https://addc401fall2016.wordpress.com/wp-content/uploads/2016/08/rushkoff-program-or-be-programmed.pdf) (pages 7-21)
+[Jathan Sadowski, *The Mechanic and The Luddite (Chapter 2: Two Models)*](https://www-degruyterbrill-com.proxy.library.nyu.edu/document/doi/10.1525/)9780520398085-003/html
+[Patrick Lin, *Why We’re Not Using AI in This Course, Despite Its Obvious Benefits*](https://emergingethics.substack.com/p/why-were-not-using-ai-in-this-course)
+
+Select 3 quotes that you found interesting in the reading. Edit the README.md file of your week1 folder, including your selected quotes as *blockquotes* cited with the author's name and a page number (if applicable). Below each quote, write a few sentences as to why the quote stuck out to you, whether you agree or disagree, and how the quote relates to learning programming skills.
+
+Format your document using Markdown syntax. A guide to using Markdown syntax is included in the repo template, and at [this link](https://www.markdownguide.org/cheat-sheet/#overview). Your formatting will be rendered on the GitHub website when you open the repo folder. Be sure to use at least 3 Markdown elements, including *blockquotes* and *headings*. You will use Markdown in this course to write up your assignments in their respective README.md files.

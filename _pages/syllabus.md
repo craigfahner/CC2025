@@ -187,4 +187,3 @@ If you are experiencing an illness or any other situation that might affect your
 ### Statement on Inclusion
 
 The NYU Tandon School values an inclusive and equitable environment for all our students. I hope to foster a sense of community in this class and consider it a place where individuals of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious and political affiliations, and abilities will be treated with respect.  It is my intent that all students’ learning needs be addressed, and that the diversity that students bring to this class be viewed as a resource, strength and benefit.  If this standard is not being upheld, please feel free to speak with me.
-
