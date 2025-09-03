@@ -14,7 +14,7 @@ permalink: /syllabus/
 - email: [cef9489@nyu.edu](mailto:cef9489@nyu.edu)
 - Website: [https://craigfahner.github.io/CC2025](https://craigfahner.github.io/CC2025)
 - [Brightspace](https://brightspace.nyu.edu/d2l/home/502947) (for assignments)
-- Class meeting: Wednesdays 2pm - 4:50pm 370 Jay Street, Room 312
+- Class meeting: Wednesdays 2pm - 4:50pm 370 Jay Street, Room 310
 - Office Hours: Wednesdays 11-1pm, ([by appointment](https://calendar.app.google/yeX4dsHuj9bu7uB9A)), 370 Jay Street Room 332
 
 ## Course Overview and Goals
@@ -53,7 +53,7 @@ Unit assignments expand on in-class coding exercises, inviting students to creat
 - Generative Pattern (due October 1 - 10%)
 - Abstract Clock (due October 8 - 10%)
 - Object factory (due October 22- 10%)
-- Projection mapping (due October 29 - 10%)	50%
+- Projection mapping (due October 29 - 10%)
 
 ### Final Project
 
@@ -64,7 +64,7 @@ The final project invites students to expand on one or more aspects of the cours
 Students are also encouraged to bring their own formats and ideas to the table – I am open to all kinds of project ideas, so long as they demonstrate several technical approaches from the course and are feasible within the given time frame. Students will be asked to turn in a project proposal mid-semester that outlines their ideas for the final project. 
 
 Final project proposal (due November 12 - 5%)
-Final Project presentation (due December 15 – 20%)	20%
+Final Project presentation (due December 15 – 20%)
 
 ### Grading of Assignments
 
