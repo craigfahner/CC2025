@@ -23,6 +23,10 @@ permalink: /
 - December 10: Last lecture
 - December 15-17(tbd): Final presentations
 
+## Weekly notes
+
+- [Week 1: Introduction and Software Setup](./week1/)
+
 ## Important resources
 
 - [p5.js reference](https://p5js.org/reference/)
