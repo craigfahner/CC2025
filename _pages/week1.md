@@ -7,7 +7,7 @@ permalink: /week1/
 ## Week 1 Activities
 
 - Introduction to the course ([link to presentation](https://drive.google.com/file/d/1qIeD9wq0orl1b8yMwLHTZiKkmxjMIoMv/view?usp=sharing))
-- Presenting the [syllabus](./syllabus/)
+- Presenting the [syllabus](../syllabus/)
 - p5.js examples
 - Getting set up with Visual Studio Code and GitHub
 
