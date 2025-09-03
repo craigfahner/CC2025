@@ -57,7 +57,7 @@ VSCode is the code editor we will be using in this class. It is essentially a fa
 1. [Download VSCode here](https://code.visualstudio.com/)
 2. Install VSCode
 3. Open VSCode and install these three extensions
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - [p5js Snippets](https://marketplace.visualstudio.com/items?itemName=acidic9.p5js-snippets)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
