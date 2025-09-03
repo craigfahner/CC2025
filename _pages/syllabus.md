@@ -8,7 +8,7 @@ permalink: /syllabus/
 
 # Integrated Design & Media
 
-# DM-UY 1133 D | Creative Coding | Fall 2025, Section D
+# DM-GY 6063 A | Creative Coding | Fall 2025, Section D
 
 - Instructor: [Craig Fahner](https://www.craigfahner.com)
 - email: [cef9489@nyu.edu](mailto:cef9489@nyu.edu)
