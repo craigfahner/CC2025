@@ -9,7 +9,7 @@ permalink: /week3/
 
 ---
 
-<iframe src="https://openprocessing.org/sketch/2003621/embed/" style="width:100%;height:100%;"></iframe>
+<iframe src="https://openprocessing.org/sketch/2003621/embed/" style="width:100%;height:800px;"></iframe>
 
 ---
 
