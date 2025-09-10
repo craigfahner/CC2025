@@ -59,6 +59,9 @@ function draw() { // after setup has run, the code in the draw block runs as a l
   
 }
 ```
+
+[Here](https://github.com/craigfahner/CC2025-cef9489/blob/main/week2/sketch.js) is a link to the code I wrote during class, if you need to catch up!
+
 ---
 
 
