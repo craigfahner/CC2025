@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Week 2
-permalink: /week2/
+title: Week 3
+permalink: /week3/
 ---
 
 ## Week 2 Activities
