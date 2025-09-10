@@ -66,9 +66,9 @@ function draw() { // after setup has run, the code in the draw block runs as a l
 
 Read over the following tutorials:
 
-[P5.js intro](https://idmp5.github.io/p5/p5-intro/)
-[Shapes and Colors](https://idmp5.github.io/p5/drawing/)
-[Coordinates and Shapes](https://archive.p5js.org/learn/coordinate-system-and-shapes.html)
-[Color and Form](https://openprocessing.org/sketch/2003621) - follow every step of this tutorial!
+- [P5.js intro](https://idmp5.github.io/p5/p5-intro/)
+- [Shapes and Colors](https://idmp5.github.io/p5/drawing/)
+- [Coordinates and Shapes](https://archive.p5js.org/learn/coordinate-system-and-shapes.html)
+- [Color and Form](https://openprocessing.org/sketch/2003621) - follow every step of this tutorial!
 
 In your week2 folder, modify the sketch.js file, adding at least two more shapes to the code you created in class. Use comments in your sketch. Commit and push your code to your GitHub repo, making some notes in the week2 readme.md folder documenting what you have added.
