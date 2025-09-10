@@ -9,6 +9,7 @@ permalink: /week2/
 - GitHub refresher and Brightspace submission
 - AI Discussion
 - Human computer exercise
+- [Getting to know the p5.js reference](https://p5js.org/reference/)
 - "Hello world" - basic JavaScript syntax
 
 ---
@@ -42,7 +43,9 @@ Inside our template's `setup` function, we see an indented line of code that rea
 
 This is a built-in function of p5.js that creates a drawing context (or *canvas*) in the browser, according to a specified width and height. Beyond functions that are *declared* as setup and draw, there are numerous built-in functions in p5.js and JavaScript that do things like draw shapes, handle interactions, and more.
 
-These functions are typically formatted like so: `functionName(parameter1, parameter2, parameter3);`. Functions always appear with parentheses following their name – this is how we know they are functions and not *variables*, which we will learn about later. Within the parentheses, we find *parameters*, which are like the settings for our function. For instance, a *circle* function takes parameters setting its size and position, like so: `circle(50, 100, 25);`, which places a circle at the coordinate 50,100 which is 25 pixels in size. In the `createCanvas(windowWidth, windowHeight);` function, we are providing parameters that set the width and height of the canvas to be created. In this instance, we are using a pair of *system variables* that are built-in to p5js, which pass through the current width and height of the browser window: `windowWidth` and `windowHeight`.
+These functions are typically formatted like so: `functionName(parameter1, parameter2, parameter3);`. Functions always appear with parentheses following their name – this is how we know they are functions and not *variables*, which we will learn about later. Within the parentheses, we find *parameters*, which are like the settings for our function. For instance, a *circle* function takes parameters setting its size and position, like so: `circle(50, 100, 25);`, which places a circle at the coordinate 50,100 which is 25 pixels in size. In the `createCanvas(windowWidth, windowHeight);` function, we are providing parameters that set the width and height of the canvas to be created. In this instance, we are using a pair of *system variables* that are built-in to p5js, which pass through the current width and height of the browser window: `windowWidth` and `windowHeight`. The order that parameters are specified inside the parentheses is important! To know what parameters are expected, and in what order, refer to the [p5.js reference](https://p5js.org/reference/).
+
+Experiment with the **[circle](https://p5js.org/reference/p5/circle/)** function, placing it inside of the **draw** loop. Use different numbers for the different parameters, keeping in mind that the first paramater is the x (horizontal) position, the second is the y (vertical) position, and the third parameter is the size (diameter in pixels).
 
 ---
 

@@ -26,6 +26,7 @@ permalink: /
 ## Weekly notes
 
 - [Week 1: Introduction and Software Setup](./week1/)
+- [Week 2: JavaScript and p5.js basics](./week2/)
 
 ## Important resources
 
