@@ -1,0 +1,58 @@
+---
+layout: page
+title: Week 2
+permalink: /week2/
+---
+
+## Week 2 Activities
+
+- GitHub refresher and Brightspace submission
+- AI Discussion
+- Human computer exercise
+- "Hello world" - basic JavaScript syntax
+
+---
+
+### JavaScript basics
+
+- [An introduction to client-side scripting](https://idmp5.github.io/intro/javascript/)
+
+Your basic template for p5.js looks like this:
+
+```
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  
+}
+
+function draw() {
+  
+}
+```
+
+Even though this template doesn't render any graphics or "do anything", we can see some key components of JavaScript syntax here:
+
+**function** is a keyword that declares a given *block* of code as carrying out a particular task in our program. Blocks of code are enclosed by curly brackets (**{** and **}**)
+
+In p5.js, all programs (or "sketches" in p5 lingo) have a **setup** and **draw** function. **Setup** is a function that is called once when your program starts. You use it to do things like set the size and background of your canvas, and other initialization tasks.
+
+**Draw** is a function that, by default, loops forever after setup finishes running. We use it to do things like handling interactions and animating graphics. Most of your actual designing and coding happens in the **draw** loop, at least for now.
+
+Inside our template's `setup` function, we see an indented line of code that reads `createCanvas(windowWidth, windowHeight);`
+
+This is a built-in function of p5.js that creates a drawing context (or *canvas*) in the browser, according to a specified width and height. Beyond functions that are *declared* as setup and draw, there are numerous built-in functions in p5.js and JavaScript that do things like draw shapes, handle interactions, and more.
+
+These functions are typically formatted like so: `functionName(parameter1, parameter2, parameter3);`. Functions always appear with parentheses following their name – this is how we know they are functions and not *variables*, which we will learn about later. Within the parentheses, we find *parameters*, which are like the settings for our function. For instance, a *circle* function takes parameters setting its size and position, like so: `circle(50, 100, 25);`, which places a circle at the coordinate 50,100 which is 25 pixels in size. In the `createCanvas(windowWidth, windowHeight);` function, we are providing parameters that set the width and height of the canvas to be created. In this instance, we are using a pair of *system variables* that are built-in to p5js, which pass through the current width and height of the browser window: `windowWidth` and `windowHeight`.
+
+---
+
+
+### For Next Week
+
+Read over the following tutorials:
+
+[P5.js intro](https://idmp5.github.io/p5/p5-intro/)
+[Shapes and Colors](https://idmp5.github.io/p5/drawing/)
+[Coordinates and Shapes](https://archive.p5js.org/learn/coordinate-system-and-shapes.html)
+
+In your week2 folder, modify the sketch.js file, adding at least two more shapes to the code you created in class. Commit and push your code to your GitHub repo, making some notes in the week2 readme.md folder documenting what you have added.
