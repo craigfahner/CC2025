@@ -12,6 +12,7 @@ permalink: /
 - [Brightspace](https://brightspace.nyu.edu/d2l/home/502947) (for assignments)
 - Class meeting: Wednesdays 2pm - 4:50pm 370 Jay Street, Room 312
 - Office Hours: Wednesdays 11-1pm, ([by appointment](https://calendar.app.google/yeX4dsHuj9bu7uB9A)), 370 Jay Street Room 332
+- [Class Slack Workspace](https://cc2025workspace.slack.com/)
 
 ## Important Dates (for this course)
 
