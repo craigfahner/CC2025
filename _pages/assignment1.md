@@ -19,8 +19,10 @@ Your sketch must contain:
 - The use of variables
 - A creative reinterpretation of the original artwork using a different color palette
 - For 100% technical grade: make your painting SCALABLE - using [width](https://p5js.org/reference/p5/width) and [height](https://p5js.org/reference/p5/height) variables and expressions, create an interpretation of the painting that scales with different window sizes (using [windowWidth](https://p5js.org/reference/p5/windowWidth) and [windowHeight](https://p5js.org/reference/p5/windowWidth) to set the canvas size).
+- Your code must be commented thoroughly, explaining what each section of your code is doing. If you have found additional functions to accomplish your assignment, please indicate why, and include a link to the function page on the p5.js reference in your comments.
 
 **Evaluation:**
+
 *Creative*:
 - 0 points: the sketch does not alter the color of the original painting. You have not selected a challenging or suitably complex source image.
 - 2.5 points: the sketch alters the color of the original painting, but not in a way that considers the aesthetic unity of the original
