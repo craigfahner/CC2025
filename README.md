@@ -28,8 +28,14 @@ permalink: /
 
 - [Week 1: Introduction and Software Setup](./week1/)
 - [Week 2: JavaScript and p5.js basics](./week2/)
+- [Week 3: Drawing and the Coordinate System](./week3/)
+- **[Assignment 1: Geometric Abstraction (due September 24th)](./assignment1/)**
 
 ## Important resources
 
 - [p5.js reference](https://p5js.org/reference/)
 - [IDM p5 resource](https://idmp5.github.io/)
+
+## IDM Creative Coding GA
+
+Our creative coding GA, Bowen, will have regular open meeting times for students **every Tuesday and Thursday between 12noon - 2pm  in Room 304** (The Student Meeting Room in the back hallway by the classrooms). Students can add this and all other IDM events with this Google Calendar link : https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ

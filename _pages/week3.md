@@ -9,18 +9,22 @@ permalink: /week3/
 
 ---
 
-<iframe src="https://openprocessing.org/sketch/2003621/embed/" style="width:100%;height:800px;"></iframe>
+## Class notes
+
+**[Lesson 1: Color and Form](https://openprocessing.org/sketch/2003621)**
+**[Lesson 2: Polygons and Advanced Color](https://openprocessing.org/sketch/2009466)**
+**[Lesson 3: Arcs and Curves](https://openprocessing.org/sketch/2358312)**
+
+Resources:
+- [List of Colors on Wikipedia](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical))
+- [p5.js Coordinates and Shapes tutorial](https://archive.p5js.org/learn/coordinate-system-and-shapes.html)
+
 
 ---
 
 
 ### For Next Week
 
-Read over the following tutorials:
+Complete the first assignment:
 
-- [P5.js intro](https://idmp5.github.io/p5/p5-intro/)
-- [Shapes and Colors](https://idmp5.github.io/p5/drawing/)
-- [Coordinates and Shapes](https://archive.p5js.org/learn/coordinate-system-and-shapes.html)
-- [Color and Form](https://openprocessing.org/sketch/2003621) - follow every step of this tutorial!
-
-In your week2 folder, modify the sketch.js file, adding at least two more shapes to the code you created in class. Use comments in your sketch. Commit and push your code to your GitHub repo, making some notes in the week2 readme.md folder documenting what you have added.
+- **[Assignment 1: Geometric Abstraction (due September 24th)](./assignment1/)**
