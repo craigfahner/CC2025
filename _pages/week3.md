@@ -11,9 +11,9 @@ permalink: /week3/
 
 ## Class notes
 
-**[Lesson 1: Color and Form](https://openprocessing.org/sketch/2003621)**
-**[Lesson 2: Polygons and Advanced Color](https://openprocessing.org/sketch/2009466)**
-**[Lesson 3: Arcs and Curves](https://openprocessing.org/sketch/2358312)**
+- **[Lesson 1: Color and Form](https://openprocessing.org/sketch/2003621)**
+- **[Lesson 2: Polygons and Advanced Color](https://openprocessing.org/sketch/2009466)**
+- **[Lesson 3: Arcs and Curves](https://openprocessing.org/sketch/2358312)**
 
 Resources:
 - [List of Colors on Wikipedia](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical))
