@@ -22,13 +22,16 @@ Your sketch must contain:
 
 **Evaluation:**
 *Creative*:
-0 points: the sketch does not alter the color of the original painting. You have not selected a challenging or suitably complex source image.
-2.5 points: the sketch alters the color of the original painting, but not in a way that considers the aesthetic unity of the original
-5 points: the sketch alters the color of the original painting and does so in a way that reflects complementary colors and aesthetic unity
+- 0 points: the sketch does not alter the color of the original painting. You have not selected a challenging or suitably complex source image.
+- 2.5 points: the sketch alters the color of the original painting, but not in a way that considers the aesthetic unity of the original
+- 5 points: the sketch alters the color of the original painting and does so in a way that reflects complementary colors and aesthetic unity_
+
 
 *Technical*:
-0 points: the sketch does not accurately reproduce the composition of the original painting
-2.5 points: the sketch reproduces the composition of the original painting using multiple shape functions and color variables
-5 points: the sketch reproduces the composition of the original painting, and is dynamically scalable using math expressions and width and height variables
+
+- 0 points: the sketch does not accurately reproduce the composition of the original painting
+- 2.5 points: the sketch reproduces the composition of the original painting using multiple shape functions and color variables
+- 5 points: the sketch reproduces the composition of the original painting, and is dynamically scalable using math expressions and width and height variables
+
 
 Due Wednesday, September 24th at 2pm. Please share the URL to your assignment's GitHub repo and the assignment's GitHub.io site on Brightspace.

@@ -18,7 +18,7 @@ permalink: /week3/
 Resources:
 - [List of Colors on Wikipedia](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical))
 - [p5.js Coordinates and Shapes tutorial](https://archive.p5js.org/learn/coordinate-system-and-shapes.html)
-
+- [Chromotome: Open Source color palettes](https://kgolid.github.io/chromotome-site/)
 
 ---
 
