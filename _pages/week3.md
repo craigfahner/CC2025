@@ -14,7 +14,7 @@ permalink: /week3/
 
 - **[Lesson 1: Color and Form](https://openprocessing.org/sketch/2003621)**
 - **[Lesson 2: Polygons and Advanced Color](https://openprocessing.org/sketch/2009466)**
-- **[Lesson 3: Arcs and Curves](https://openprocessing.org/sketch/2358312)**
+- **[Lesson 3: Arcs and Curves](https://openprocessing.org/sketch/2726989)**
 
 Links from class:
 - [Radians to degrees chart](https://processing.org/133e7f3a323ec67b6f3fe3f7393ba7a9/degrees.svg)
@@ -35,3 +35,5 @@ Resources:
 Complete the first assignment:
 
 - **[Assignment 1: Geometric Abstraction (due September 24th)](../assignment1/)**
+
+- [Follow the Arcs & Curves tutorial from class (link is fixed now)](https://openprocessing.org/sketch/2726989)
