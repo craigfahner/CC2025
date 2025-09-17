@@ -6,6 +6,7 @@ permalink: /week3/
 
 ## Week 2 Activities
 
+*note*: everyone should download and unzip [these two files](https://github.com/DM-GY-6063-A/p5js-vscode-files/archive/refs/heads/main.zip) and place them in the root of your GitHub repo. This will (hopefully) solve the annoying tab completion issue we were experiencing. 
 
 ---
 
