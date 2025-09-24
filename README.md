@@ -30,6 +30,8 @@ permalink: /
 - [Week 2: JavaScript and p5.js basics](./week2/)
 - [Week 3: Drawing and the Coordinate System](./week3/)
 - **[Assignment 1: Geometric Abstraction (due September 24th)](./assignment1/)**
+- [Week 4: Transformations, Conditionals and Loops](./week4/)
+- **[Assignment 2: Generative Pattern (due October 1st)](./assignment2/)**
 
 ## Important resources
 
