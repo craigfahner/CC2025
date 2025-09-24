@@ -40,4 +40,4 @@ permalink: /
 
 ## IDM Creative Coding GA
 
-Our creative coding GA, Bowen, will have regular open meeting times for students **every Tuesday and Thursday between 12noon - 2pm  in Room 304** (The Student Meeting Room in the back hallway by the classrooms). Students can add this and all other IDM events with this Google Calendar link : https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+Our creative coding GA, Bowen, will have regular open meeting times for students **every Tuesday and Thursday between 12noon - 2pm  in Room 304** (The Student Meeting Room in the back hallway by the classrooms). Students can add this and all other IDM events with this [Google Calendar link](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
