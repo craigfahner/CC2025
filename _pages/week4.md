@@ -19,6 +19,8 @@ permalink: /week4/
 - [Simple 2-dimensional For loop example](https://openprocessing.org/sketch/2374941)
 - [Additional tutorial on For Loops](https://happycoding.io/tutorials/p5js/for-loops)
 
+- **[2 dimensional for loop template for assignment](https://github.com/craigfahner/CC2025-cef9489/blob/main/week4a/sketch.js)**
+
 ### For Next Week
 
 Complete the second assignment:
