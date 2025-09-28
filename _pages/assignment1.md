@@ -36,4 +36,4 @@ Your sketch must contain:
 - 5 points: the sketch reproduces the composition of the original painting, and is dynamically scalable using math expressions and width and height variables
 
 
-Due Wednesday, September 24th at 2pm. Please share the URL to your assignment's GitHub repo and the assignment's GitHub.io site on Brightspace.
+Due Wednesday, September 24th at 2pm. Please share the URL to your assignment's GitHub repo and the assignment's GitHub.io site on [Brightspace](https://brightspace.nyu.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=1077706&grpid=0&isprv=0&bp=0&ou=502947).
