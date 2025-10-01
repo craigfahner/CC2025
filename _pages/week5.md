@@ -18,6 +18,7 @@ permalink: /week5/
 - **[Lesson 2: Polar Coordinates and Timing](https://openprocessing.org/sketch/2364172)**
 
 - [Button and rubber ball example from class](https://github.com/craigfahner/CC2025-cef9489/blob/main/week5a/sketch.js)
+- [Polar coordinate example from class](https://github.com/craigfahner/CC2025-cef9489/blob/main/week5b/sketch.js)
 
 - [Video tutorial on State Machines in p5js](https://www.youtube.com/watch?v=yahxL_yAx18)
 - [Example sketch that triggers "snowfall" event using time functions](https://openprocessing.org/sketch/2039300)
