@@ -33,4 +33,4 @@ You may want to follow the following steps to complete your project:
 **Technical**:
 For full points, your sketch should make use of multiple drawing functions. It should use a two-dimensional for loop to render repeating forms. It should make use of variable incrementation to create a compositional dynamic that intensifies along the Y axis. It should use conditionals and mouse inputs to modify or animate the composition.
 
-Due Wednesday, October 1st at 2pm. Please share the URL to your assignment's GitHub repo and the assignment's GitHub.io site on [Brightspace](https://brightspace.nyu.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=1083264&grpid=0&isprv=&bp=0&ou=502947).
+Due Wednesday, October 1st at 1pm. Please share the URL to your assignment's GitHub repo and the assignment's GitHub.io site on [Brightspace](https://brightspace.nyu.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=1083264&grpid=0&isprv=&bp=0&ou=502947).
