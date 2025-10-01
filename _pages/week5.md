@@ -29,8 +29,8 @@ Some resources around visualizing time (sourced from Golan Levin's coding course
  - [https://humanclock.com/](https://humanclock.com/)
  - [https://vimeo.com/27975734](https://vimeo.com/27975734)
  - [https://www.tate.org.uk/whats-on/tate-modern/christian-marclay-clock](https://www.tate.org.uk/whats-on/tate-modern/christian-marclay-clock)
- - [http://golancourses.net/2015/wp-content/uploads/2015/01/vassallo.png](http://golancourses.net/2015/wp-content/uploads/2015/01/vassallo.png
- - [https://leebyron.com/centerclock/](https://leebyron.com/centerclock/
+ - [http://golancourses.net/2015/wp-content/uploads/2015/01/vassallo.png](http://golancourses.net/2015/wp-content/uploads/2015/01/vassallo.png)
+ - [https://leebyron.com/centerclock/](https://leebyron.com/centerclock/)
  - [https://www.humanssince1982.com/catalogue](https://www.humanssince1982.com/catalogue)
  - [https://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/](https://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/)
 
