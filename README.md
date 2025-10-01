@@ -33,7 +33,7 @@ permalink: /
 - [Week 4: Transformations, Conditionals and Loops](./week4/)
 - **[Assignment 2: Generative Pattern (due October 1st)](./assignment2/)**
 - [Week 5: Polar Coordinates and Timing](./week5/)
--**[Assignment 3: Abstract Clock (due October 8th)](./assignment3/)**
+- **[Assignment 3: Abstract Clock (due October 8th)](./assignment3/)**
 
 ## Important resources
 
