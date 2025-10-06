@@ -33,4 +33,8 @@ Creative: Your sketch should be a novel representation of time that differs from
 
 Technical: Your sketch should make use of at least three of the time-related functions listed above. It should render shapes to the canvas using at least three methods. It should include at least one for loop OR at least one conditional statement. It should be responsive to changes in time. *Your code should be commented extensively throughout. Each section of code should be commented to explain what the code is accomplishing in your sketch. Failure to comment properly will result in a maximum technical grade of 3/5.*
 
-Due Wednesday, October 8th at 1pm. Please share the URL to your assignment's GitHub repo and the assignment's GitHub.io site on [Brightspace](https://brightspace.nyu.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=1083264&grpid=0&isprv=&bp=0&ou=502947). 
+Due Wednesday, October 15th at 1pm. **An in-progress version is due October 8th, which should have the following elements completed:**
+- The visual elements of your abstract clock should be in place
+- The concept of how time will be mapped to a visual form should be established and described in the comments, even if it is not fully implemented yet
+
+Please share the URL to your assignment's GitHub repo and the assignment's GitHub.io site on [Brightspace](https://brightspace.nyu.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=502947&isprv=0&db=1084223&cfql=0). 
