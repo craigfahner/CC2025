@@ -34,7 +34,7 @@ permalink: /
 - **[Assignment 2: Generative Pattern (due October 1st)](./assignment2/)**
 - [Week 5: Polar Coordinates and Timing](./week5/)
 - **[Assignment 3: Abstract Clock (due October 15th)](./assignment3/)**
-- [Week 7: Functions, Arrays and Objects](./week6/)
+- [Week 6: Functions, Arrays and Objects](./week6/)
 - **[Assignment 4: Object Factory (due October 22nd)](./assignment4/)**
 
 
