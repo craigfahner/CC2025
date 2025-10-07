@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 6
-permalink: /week5/
+permalink: /week6/
 ---
 
 ## Week 6 Activities
