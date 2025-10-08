@@ -27,6 +27,9 @@ Additional resources:
 
 Complete the clock assignment:
 
-- **[Assignment 3: Abstract Clock](../assignment3/)**
+- **[Assignment 4: Object Factory (due October 22nd)](./assignment4/)**
 
-Get started on the Object Factory assignment.
+Get started on the Object Factory assignment, which will be due on October 22nd. For October 15th, please have prepared:
+
+- A "static" example of your food items should be drawn to the canvas, and should be responsive to transform functions (ie, translating your object to 200,200 should center the object at 200,200)
+- Your concept should be developed
