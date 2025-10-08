@@ -18,6 +18,8 @@ permalink: /week6/
 
 - **[Lesson 1: Arrays, Functions, Objects](https://openprocessing.org/sketch/2039933)**
 
+- [Lerp and timing example from class](https://github.com/craigfahner/CC2025-cef9489/blob/main/lerp/sketch.js)
+
 Additional resources:
 
 - [Check out this  video series on Object Oriented Programming in p5.js to reinforce the concepts we've been exploring the last few weeks](https://www.youtube.com/watch?v=xG2Vbnv0wvg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23) - this is a playlist, videos 6.1 to 7.5 are relevant.
