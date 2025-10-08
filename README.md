@@ -27,6 +27,7 @@ permalink: /
 ## Important notes
 
 - [Guidelines for best commenting practices can be found here](./commenting/)
+- [Notes on Academic Honesty / LLMs / ChatGPT](./llms/)
 
 ## Weekly notes
 

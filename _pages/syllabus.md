@@ -153,7 +153,7 @@ Weekly exercises will not be accepted past their due date unless a valid reason 
 
 Every day the final project or final project proposal is overdue, it will lose a letter grade. If the final project is turned in more than 3 days late, it receives an F. If you turn nothing in at all, you will receive a 0 for the assignment. Nobody wants that, so be sure to turn your work in on time. Anything is better than nothing.
 
-### Academic Honestly and Plagiarism
+### Academic Honesty and Plagiarism
 
 Violations of academic integrity are considered to be acts of academic dishonesty and include (but are not limited to) cheating, plagiarizing, fabrication, denying other access to information or material, and facilitating academic dishonesty, and are subject to the policies and procedures noted in the Student Handbook and within the Course Catalog, including the Student Code of Conduct and the Student Judicial System. Please note that lack of knowledge of citations procedures, for example, is an unacceptable explanation for plagiarism, as is having studied together to produce remarkable similar papers or creative works submitted separately by two students, or recycling work from a previous class.
 
