@@ -24,6 +24,10 @@ permalink: /
 - December 10: Last lecture
 - December 15-17(tbd): Final presentations
 
+## Important notes
+
+- [Guidelines for best commenting practices can be found here](./commenting/)
+
 ## Weekly notes
 
 - [Week 1: Introduction and Software Setup](./week1/)
