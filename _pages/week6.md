@@ -19,6 +19,7 @@ permalink: /week6/
 - **[Lesson 1: Arrays, Functions, Objects](https://openprocessing.org/sketch/2039933)**
 
 - [Lerp and timing example from class](https://github.com/craigfahner/CC2025-cef9489/blob/main/lerp/sketch.js)
+- [Drunk walk class example from ... class](https://github.com/craigfahner/CC2025-cef9489/blob/main/week6/sketch.js)
 
 Additional resources:
 

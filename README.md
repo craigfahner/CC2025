@@ -19,7 +19,7 @@ permalink: /
 - September 3: First day of class
 - September 15: Add/Drop Deadline
 - October 15: Class will be held via Zoom (no in-person meeting)
-- November 19: No class (Legislative Friday / Thanksgiving)
+- November 26: No class (Legislative Friday / Thanksgiving)
 - November 24: Withdrawal Deadline
 - December 10: Last lecture
 - December 15-17(tbd): Final presentations
