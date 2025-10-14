@@ -41,7 +41,7 @@ permalink: /
 - **[Assignment 3: Abstract Clock (due October 15th)](./assignment3/)**
 - [Week 6: Functions, Arrays and Objects](./week6/)
 - **[Assignment 4: Object Factory (due October 22nd)](./assignment4/)**
-
+- [Week 7: Advanced arrays and objects](./week7/)
 
 ## Important resources
 
