@@ -17,7 +17,7 @@ permalink: /week7/
 ## Class notes
 
 - **[Lesson 1: Arrays and Objects continued](https://openprocessing.org/sketch/2045333)**
-- **[Pizza Generator example (from video)](https://openprocessing.org/sketch/2410241)
+- **[Pizza Generator example (from video)](https://openprocessing.org/sketch/2410241)**
 - [Lesson 2 (bonus): Noise, lerp(), atan2()](https://openprocessing.org/sketch/2055334)
 
 
