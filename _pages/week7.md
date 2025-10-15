@@ -21,6 +21,7 @@ permalink: /week7/
 - [Lesson 2 (bonus): Noise, lerp(), atan2()](https://openprocessing.org/sketch/2055334)
 
 - [Code from class (bugs with noise)](https://github.com/craigfahner/CC2025-cef9489/blob/main/week7/sketch.js)
+- [Video recording of Oct 15 lecture](https://nyu.zoom.us/rec/share/ggd0ZfavaLg40k952-VvJ1ogqXeWGtFZ0l336OWey2ZLDGQ9dRJVkNLT67zUgRT3.Z7peeq6U5znTprSd)
 
 
 ### For Next Week
