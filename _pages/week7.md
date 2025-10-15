@@ -20,6 +20,7 @@ permalink: /week7/
 - **[Pizza Generator example (from video)](https://openprocessing.org/sketch/2410241)**
 - [Lesson 2 (bonus): Noise, lerp(), atan2()](https://openprocessing.org/sketch/2055334)
 
+- [Code from class (bugs with noise)](https://github.com/craigfahner/CC2025-cef9489/blob/main/week7/sketch.js)
 
 
 ### For Next Week
