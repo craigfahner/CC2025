@@ -41,6 +41,8 @@ permalink: /
 - **[Assignment 3: Abstract Clock (due October 15th)](./assignment3/)**
 - [Week 6: Functions, Arrays and Objects](./week6/)
 - **[Assignment 4: Object Factory (due October 22nd)](./assignment4/)**
+- [Week 7: Advanced Animation and Behaviors](./week7/)
+- **[Assignment 5: Projection Mapping assets (due October 29th)](./assignment5/)**
 
 
 ## Important resources

@@ -10,3 +10,4 @@ permalink: /assignments/
 - [Assignment 2: Generative Pattern (due October 1st)](../assignment2/)
 - [Assignment 3: Abstract Clock (due October 15th)](../assignment3/)
 - [Assignment 4: Object Factory (due October 22nd)](../assignment4)
+- [Assignment 5: Projection Mapping Workshop (due October 29th)](../assignment5)
