@@ -17,18 +17,25 @@ permalink: /week8/
 - **[Lesson 1: Advanced motion and behavior](https://openprocessing.org/sketch/2055334)**
 - Bonus lesson: [The DOM and cloning objects](https://openprocessing.org/sketch/2066942)
 
+- [Code from class (random with floor)](https://github.com/craigfahner/CC2025-cef9489/blob/main/week8a_random/sketch.js)
+- [Code from class (noise eye)](https://github.com/craigfahner/CC2025-cef9489/blob/main/week8b_noise/sketch.js)
+- [Code from class (lerp)](https://github.com/craigfahner/CC2025-cef9489/blob/main/week8c_lerp/sketch.js)
+
 ## For next class...
 
 - Complete Assignment 5 (create 3 mini-sketches to prepare for projection mapping workshop)
 - Buy an Arduino!
 - Next class we meet in the 2nd Floor Ballroom space (rooms 221-224) for the projection mapping workshop
 
+
+
 ## Arduino info
 
 For this class (and your other IDM classes) you will need the following as a minimum:
 
 - [Arduino Nano ESP32 with headers](https://store-usa.arduino.cc/products/nano-esp32-with-headers?pr_prod_strat=e5_desc&pr_rec_id=b5a3c848f&pr_rec_pid=7222098591951&pr_ref_pid=7222103965903&pr_seq=uniform)
-- [a full-size breadboard](https://store-usa.arduino.cc/products/breadboard-830-contacts?pr_prod_strat=e5_desc&pr_rec_id=dcb722561&pr_rec_pid=7198856315087&pr_ref_pid=7198849073359&pr_seq=uniform) or [half-size breadboard](https://store-usa.arduino.cc/products/breadboard-830-contacts?pr_prod_strat=e5_desc&pr_rec_id=dcb722561&pr_rec_pid=7198856315087&pr_ref_pid=7198849073359&pr_seq=uniform)
+- [a full-size breadboard](https://www.pishop.us/product/full-sized-breadboard-830-points/) or [half-size breadboard](https://www.pishop.us/product/half-size-400-pin-diy-breadboard-clear/?searchid=0&search_query=breadboard)
+    - alternate links: [half](https://www.amazon.com/Qunqi-point-Experiment-Breadboard-5-5%C3%978-2%C3%970-85cm/dp/B0135IQ0ZC) or [full](amazon.com/California-JOS-Breadboard-Solderless-Distribution/dp/B0BRQX6G3T)
 - An appropriate USB cable
 
 You may use any of the following sites to buy your Arduino:
