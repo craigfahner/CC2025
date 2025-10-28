@@ -44,6 +44,7 @@ permalink: /
 - [Week 7: Advanced Objects](./week7/)
 - [Week 8: Advanced Animation and Behaviors](./week8/)
 - **[Assignment 5: Projection Mapping assets (due October 29th)](./assignment5/)**
+- [Week 9: Projection Mapping Workshop](./week9/)
 
 
 ## Important resources
