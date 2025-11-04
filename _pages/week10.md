@@ -4,7 +4,7 @@ title: Week 10
 permalink: /week10/
 ---
 
-## Week 9 Activities
+## Week 10 Activities
 
 - Final project discussion
 - Arduino workshop
@@ -48,6 +48,7 @@ The entire `<head>` element should look like this:
 
 ## Step 3: Arduino IDE
 1. Put the following code into a new document in the Arduino IDE:
+
 ```
 void  setup() {
    Serial.begin(9600); // initialize serial communications
@@ -59,12 +60,14 @@ void  loop() {
    delay(50); // slight delay to stabilize the ADC and account for drawing speed
 }
 ```
+
 2. Connect your Arduino via USB. Select the connected board in the Arduino IDE, then upload your code to your Arduino.
 3. Open the Serial Monitor. Notice how the numbers change when you rotate the potentiometer.
 
 ## Step 4: P5.JS
 
 1. Paste the following code into your sketch.js file (making sure you've added the above mentioned line to your index.html file)
+
 ```
 // graphs sensor data from an analog 
 // sensor on A0 to the window
@@ -120,6 +123,7 @@ function connectBtnClick() {
   }
 }
 ```
+
 2. Preview your code in VSCode, but then open it in Chrome or Edge by clicking the menu beside the preview URL in Vscode and selecting "Open in Browser"
 3. Click on the "Connect to Arduino" button. You should see the circle increase and decrease in size depending on your interactions with the potentiometer.
 
@@ -128,6 +132,7 @@ function connectBtnClick() {
 The above code only works for a single sensor. You can use a number of analog and digital (on/off) sensors at once by sending them as a delimited list from the Arduino to p5.js.
 
 Arduino code for 2 analog sensors (plugged into A0 and A1):
+
 ```
 void setup() {
  Serial.begin(9600); // initialize serial communications
@@ -144,6 +149,7 @@ void loop() {
 ```
 
 Arduino code for 2 analog sensors and 1 digital sensor:
+
 ```
 void setup() {
  Serial.begin(9600); // initialize serial communications
