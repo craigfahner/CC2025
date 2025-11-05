@@ -21,13 +21,15 @@ permalink: /
 - October 15: Class will be held via Zoom (no in-person meeting)
 - November 26: No class (Legislative Friday / Thanksgiving)
 - November 24: Withdrawal Deadline
-- December 10: Last lecture
-- December 15-17(tbd): Final presentations
+- December 10: Last lecture, final presentations
+- December 15: Final project code due
 
 ## Important notes
 
 - [Guidelines for best commenting practices can be found here](./commenting/)
 - [Notes on Academic Honesty / LLMs / ChatGPT](./llms/)
+
+- [Final Project Info](./final/)
 
 ## Weekly notes
 

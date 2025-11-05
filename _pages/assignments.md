@@ -11,3 +11,4 @@ permalink: /assignments/
 - [Assignment 3: Abstract Clock (due October 15th)](../assignment3/)
 - [Assignment 4: Object Factory (due October 22nd)](../assignment4)
 - [Assignment 5: Projection Mapping Workshop (due October 29th)](../assignment5)
+- [Final Project](../final)
