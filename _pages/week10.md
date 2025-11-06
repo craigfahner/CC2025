@@ -13,6 +13,10 @@ permalink: /week10/
 
 ## Class notes
 
+[Zoom recording of class](https://nyu.zoom.us/rec/share/jfGXRCMmwLVV8n0062JIEtJiXpo11MdCQYbd3tFjxkZIM4nEoBUrnv9ttopJyr8N.3yz3Xrtz3fI6osiT)
+
+[Code from class](https://github.com/craigfahner/CC2025-cef9489/blob/main/p5-mapper-template/index.html)
+
 # Arduino workshop
 ## Step 1: Download Arduino Software and Set up p5.js
 
