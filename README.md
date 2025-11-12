@@ -48,6 +48,7 @@ permalink: /
 - **[Assignment 5: Projection Mapping assets (due October 29th)](./assignment5/)**
 - [Week 9: Projection Mapping Workshop](./week9/)
 - [Week 10: Arduino workshop](./week10/)
+- [Week 11: ml5.js workshop](./week11/)
 
 
 ## Important resources
