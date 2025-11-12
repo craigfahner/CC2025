@@ -14,6 +14,11 @@ permalink: /week11/
 
 ## Class notes
 
+Examples from class:
+
+- [BodyPose Orb](https://craigfahner.github.io/CC2025-cef9489/ml5-pose-bubble/) - [code](https://github.com/craigfahner/CC2025-cef9489/tree/main/ml5-pose-bubble)
+- [HandPose pinch detector](https://craigfahner.github.io/CC2025-cef9489/ml5-handpose) - [code](https://github.com/craigfahner/CC2025-cef9489/tree/main/ml5-handpose)
+- [FaceMesh mask](https://craigfahner.github.io/CC2025-cef9489/ml5-facemesh) - [code](https://github.com/craigfahner/CC2025-cef9489/tree/main/ml5-facemesh)
 
 # ml5.js workshop
 ml5.js is a p5.js library that provides access to TensorFlow.js machine learning models that do things like detect the positions of hands, facial features and poses from images and videos.
