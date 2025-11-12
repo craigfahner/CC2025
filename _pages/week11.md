@@ -83,3 +83,19 @@ In the following example, I'm just extracting the silhouette group, drawing it t
     		endShape();
     	}
     }
+
+## ml5 + sound example:
+
+- [Pinch-based drum machine](https://craigfahner.github.io/CC2025-cef9489/soundpinch/) - [code](https://github.com/craigfahner/CC2025-cef9489/tree/main/soundpinch)
+
+## More models!
+
+- [Image Classifier](https://docs.ml5js.org/#/reference/image-classifier)
+- [Sound Classifier](https://docs.ml5js.org/#/reference/sound-classifier)
+- [Sentiment Analysis of Text](https://docs.ml5js.org/#/reference/sentiment)
+
+## p5.sound
+
+To add the p5.sound library, use the following in your index.html file:
+
+    <script src="https://cdn.jsdelivr.net/npm/p5.sound@0.2.0/dist/p5.sound.min.js"></script>
