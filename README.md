@@ -49,6 +49,7 @@ permalink: /
 - [Week 9: Projection Mapping Workshop](./week9/)
 - [Week 10: Arduino workshop](./week10/)
 - [Week 11: ml5.js workshop](./week11/)
+- [Week 12: Additional libraries](./week12/)
 
 
 ## Important resources
